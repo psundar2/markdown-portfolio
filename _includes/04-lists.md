@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Foods I like
+* Pasta
+* Pizza
+* Pancakes
+* Naan
+* Tacos
